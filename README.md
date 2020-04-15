@@ -1,9 +1,10 @@
 ## tag-checkout-branch
 
 ## usage
-add following line to `.gitconfig`
+add following alias to `.gitconfig`
 ```
-+  tag-checkout-by-branch = !git tag | peco | tag-checkout-branch-git
+[alias]
+  tag-checkout-by-branch = !git tag | peco | tag-checkout-branch-git
 ```
 ## peco (filter tool)
 - peco/peco: Simplistic interactive filtering tool https://github.com/peco/peco
