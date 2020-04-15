@@ -1,5 +1,5 @@
 ## tag-checkout-branch-git
-easier git tag checkout
+easier git tag checkout(as branch)
 
 ## usage
 add following alias to `.gitconfig`
