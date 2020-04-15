@@ -13,3 +13,6 @@ add following alias to `.gitconfig`
 ## other filter tools
 - junegunn/fzf: A command-line fuzzy finder https://github.com/junegunn/fzf
 - lotabout/skim: Fuzzy Finder in rust! https://github.com/lotabout/skim
+
+## why not name `git-tag-checkout-branch` ?
+didnt like it to show as git sub command
