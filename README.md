@@ -1,6 +1,9 @@
 ## tag-checkout-branch-git
 easier git tag checkout(as branch)
 
+## install
+`$ go get -u github.com/naofumi-fujii/tag-checkout-branch-git`
+
 ## usage
 add following alias to `.gitconfig`
 ```
